@@ -20,20 +20,89 @@
 	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb170982444234877</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.649592030497-1p8g6ec1k5ssja8sqirs2du94cu6auno</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
-		<false/>
-		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+		<string>Mukta-Bold.ttf</string>
+		<string>Mukta-ExtraBold.ttf</string>
+		<string>Mukta-ExtraLight.ttf</string>
+		<string>Mukta-Light.ttf</string>
+		<string>Mukta-Medium.ttf</string>
+		<string>Mukta-Regular.ttf</string>
+		<string>Mukta-SemiBold.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>OpenSans-BoldItalic.ttf</string>
+		<string>OpenSans-ExtraBold.ttf</string>
+		<string>OpenSans-ExtraBoldItalic.ttf</string>
+		<string>OpenSans-Italic.ttf</string>
+		<string>OpenSans-Light.ttf</string>
+		<string>OpenSans-LightItalic.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+		<string>OpenSans-MediumItalic.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+		<string>OpenSans-Light.ttf</string>
+		<string>OpenSans-LightItalic.ttf</string>
+		<string>OpenSans-Medium.ttf</string>
+		<string>OpenSans-MediumItalic.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-SemiBold.ttf</string>
+		<string>OpenSans-SemiBoldItalic.ttf</string>
+		<string>NunitoSans-Black.ttf</string>
+		<string>NunitoSans-BlackItalic.ttf</string>
+		<string>NunitoSans-Bold.ttf</string>
+		<string>NunitoSans-BoldItalic.ttf</string>
+		<string>NunitoSans-ExtraBold.ttf</string>
+		<string>NunitoSans-ExtraBoldItalic.ttf</string>
+		<string>NunitoSans-ExtraLight.ttf</string>
+		<string>NunitoSans-ExtraLightItalic.ttf</string>
+		<string>NunitoSans-Italic.ttf</string>
+		<string>NunitoSans-Light.ttf</string>
+		<string>NunitoSans-LightItalic.ttf</string>
+		<string>NunitoSans-Medium.ttf</string>
+		<string>NunitoSans-MediumItalic.ttf</string>
+		<string>NunitoSans-Regular.ttf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>

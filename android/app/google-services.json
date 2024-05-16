@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002807191978",
+    "project_id": "ncarp-2530a",
+    "storage_bucket": "ncarp-2530a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002807191978:android:ab7d09ea6732651e4163d3",
+        "android_client_info": {
+          "package_name": "com.ncarp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycAlpcmSjfAbM_iTG28BTCLdfqbEoH8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

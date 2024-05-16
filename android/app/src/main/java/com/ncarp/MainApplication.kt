@@ -1,6 +1,8 @@
 package com.ncarp
 
 import android.app.Application
+import expo.modules.ApplicationLifecycleDispatcher
+import expo.modules.ReactNativeHostWrapper
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
 import com.facebook.react.ReactHost

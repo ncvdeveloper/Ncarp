@@ -12,6 +12,63 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		66BAF32A2BD779E300834551 /* OpenSans_SemiCondensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F12BD779E200834551 /* OpenSans_SemiCondensed-Medium.ttf */; };
+		66BAF32B2BD779E300834551 /* OpenSans_SemiCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F22BD779E200834551 /* OpenSans_SemiCondensed-Regular.ttf */; };
+		66BAF32C2BD779E300834551 /* NunitoSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F32BD779E200834551 /* NunitoSans-BoldItalic.ttf */; };
+		66BAF32D2BD779E300834551 /* OpenSans_Condensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F42BD779E200834551 /* OpenSans_Condensed-Italic.ttf */; };
+		66BAF32E2BD779E300834551 /* OpenSans_SemiCondensed-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F52BD779E200834551 /* OpenSans_SemiCondensed-ExtraBoldItalic.ttf */; };
+		66BAF32F2BD779E300834551 /* Mukta-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F62BD779E200834551 /* Mukta-SemiBold.ttf */; };
+		66BAF3302BD779E300834551 /* OpenSans_Condensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F72BD779E200834551 /* OpenSans_Condensed-Light.ttf */; };
+		66BAF3312BD779E300834551 /* Mukta-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F82BD779E200834551 /* Mukta-ExtraBold.ttf */; };
+		66BAF3322BD779E300834551 /* Mukta-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2F92BD779E200834551 /* Mukta-Medium.ttf */; };
+		66BAF3332BD779E300834551 /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2FA2BD779E300834551 /* OpenSans-ExtraBold.ttf */; };
+		66BAF3342BD779E300834551 /* OpenSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2FB2BD779E300834551 /* OpenSans-Medium.ttf */; };
+		66BAF3352BD779E300834551 /* NunitoSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2FC2BD779E300834551 /* NunitoSans-Medium.ttf */; };
+		66BAF3362BD779E300834551 /* NunitoSans-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2FD2BD779E300834551 /* NunitoSans-ExtraLight.ttf */; };
+		66BAF3372BD779E300834551 /* NunitoSans-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2FE2BD779E300834551 /* NunitoSans-MediumItalic.ttf */; };
+		66BAF3382BD779E300834551 /* OpenSans_SemiCondensed-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF2FF2BD779E300834551 /* OpenSans_SemiCondensed-BoldItalic.ttf */; };
+		66BAF3392BD779E300834551 /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3002BD779E300834551 /* OpenSans-Bold.ttf */; };
+		66BAF33A2BD779E300834551 /* Mukta-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3012BD779E300834551 /* Mukta-ExtraLight.ttf */; };
+		66BAF33B2BD779E300834551 /* NunitoSans-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3022BD779E300834551 /* NunitoSans-Black.ttf */; };
+		66BAF33C2BD779E300834551 /* OpenSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3032BD779E300834551 /* OpenSans-ExtraBoldItalic.ttf */; };
+		66BAF33D2BD779E300834551 /* NunitoSans-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3042BD779E300834551 /* NunitoSans-BlackItalic.ttf */; };
+		66BAF33E2BD779E300834551 /* NunitoSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3052BD779E300834551 /* NunitoSans-LightItalic.ttf */; };
+		66BAF33F2BD779E300834551 /* OpenSans_SemiCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3062BD779E300834551 /* OpenSans_SemiCondensed-LightItalic.ttf */; };
+		66BAF3402BD779E300834551 /* NunitoSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3072BD779E300834551 /* NunitoSans-Bold.ttf */; };
+		66BAF3412BD779E300834551 /* OpenSans_Condensed-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3082BD779E300834551 /* OpenSans_Condensed-ExtraBoldItalic.ttf */; };
+		66BAF3422BD779E300834551 /* NunitoSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3092BD779E300834551 /* NunitoSans-Regular.ttf */; };
+		66BAF3432BD779E300834551 /* OpenSans_Condensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF30A2BD779E300834551 /* OpenSans_Condensed-LightItalic.ttf */; };
+		66BAF3442BD779E300834551 /* OpenSans_Condensed-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF30B2BD779E300834551 /* OpenSans_Condensed-MediumItalic.ttf */; };
+		66BAF3452BD779E300834551 /* Mukta-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF30C2BD779E300834551 /* Mukta-Bold.ttf */; };
+		66BAF3462BD779E300834551 /* OpenSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF30D2BD779E300834551 /* OpenSans-SemiBoldItalic.ttf */; };
+		66BAF3472BD779E300834551 /* OpenSans_SemiCondensed-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF30E2BD779E300834551 /* OpenSans_SemiCondensed-ExtraBold.ttf */; };
+		66BAF3482BD779E300834551 /* OpenSans_Condensed-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF30F2BD779E300834551 /* OpenSans_Condensed-BoldItalic.ttf */; };
+		66BAF3492BD779E300834551 /* OpenSans_Condensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3102BD779E300834551 /* OpenSans_Condensed-Regular.ttf */; };
+		66BAF34A2BD779E300834551 /* OpenSans_Condensed-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3112BD779E300834551 /* OpenSans_Condensed-SemiBoldItalic.ttf */; };
+		66BAF34B2BD779E300834551 /* OpenSans_SemiCondensed-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3122BD779E300834551 /* OpenSans_SemiCondensed-SemiBold.ttf */; };
+		66BAF34C2BD779E300834551 /* NunitoSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3132BD779E300834551 /* NunitoSans-Italic.ttf */; };
+		66BAF34D2BD779E300834551 /* NunitoSans-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3142BD779E300834551 /* NunitoSans-ExtraBoldItalic.ttf */; };
+		66BAF34E2BD779E300834551 /* Mukta-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3152BD779E300834551 /* Mukta-Light.ttf */; };
+		66BAF34F2BD779E300834551 /* OpenSans-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3162BD779E300834551 /* OpenSans-LightItalic.ttf */; };
+		66BAF3502BD779E300834551 /* NunitoSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3172BD779E300834551 /* NunitoSans-Light.ttf */; };
+		66BAF3512BD779E300834551 /* OpenSans_SemiCondensed-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3182BD779E300834551 /* OpenSans_SemiCondensed-MediumItalic.ttf */; };
+		66BAF3522BD779E300834551 /* Mukta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3192BD779E300834551 /* Mukta-Regular.ttf */; };
+		66BAF3532BD779E300834551 /* OpenSans_Condensed-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF31A2BD779E300834551 /* OpenSans_Condensed-SemiBold.ttf */; };
+		66BAF3542BD779E300834551 /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF31B2BD779E300834551 /* OpenSans-Light.ttf */; };
+		66BAF3552BD779E300834551 /* OpenSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF31C2BD779E300834551 /* OpenSans-BoldItalic.ttf */; };
+		66BAF3562BD779E300834551 /* OpenSans_SemiCondensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF31D2BD779E300834551 /* OpenSans_SemiCondensed-Italic.ttf */; };
+		66BAF3572BD779E300834551 /* NunitoSans-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF31E2BD779E300834551 /* NunitoSans-ExtraLightItalic.ttf */; };
+		66BAF3582BD779E300834551 /* OpenSans_Condensed-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF31F2BD779E300834551 /* OpenSans_Condensed-ExtraBold.ttf */; };
+		66BAF3592BD779E300834551 /* OpenSans_SemiCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3202BD779E300834551 /* OpenSans_SemiCondensed-Light.ttf */; };
+		66BAF35A2BD779E300834551 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3212BD779E300834551 /* OpenSans-Regular.ttf */; };
+		66BAF35B2BD779E300834551 /* NunitoSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3222BD779E300834551 /* NunitoSans-ExtraBold.ttf */; };
+		66BAF35C2BD779E300834551 /* OpenSans_Condensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3232BD779E300834551 /* OpenSans_Condensed-Medium.ttf */; };
+		66BAF35D2BD779E300834551 /* OpenSans_Condensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3242BD779E300834551 /* OpenSans_Condensed-Bold.ttf */; };
+		66BAF35E2BD779E300834551 /* OpenSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3252BD779E300834551 /* OpenSans-Italic.ttf */; };
+		66BAF35F2BD779E300834551 /* OpenSans_SemiCondensed-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3262BD779E300834551 /* OpenSans_SemiCondensed-SemiBoldItalic.ttf */; };
+		66BAF3602BD779E300834551 /* OpenSans_SemiCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3272BD779E300834551 /* OpenSans_SemiCondensed-Bold.ttf */; };
+		66BAF3612BD779E300834551 /* OpenSans-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3282BD779E300834551 /* OpenSans-MediumItalic.ttf */; };
+		66BAF3622BD779E300834551 /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66BAF3292BD779E300834551 /* OpenSans-SemiBold.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-Ncarp-NcarpTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Ncarp-NcarpTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -41,6 +98,63 @@
 		5709B34CF0A7D63546082F79 /* Pods-Ncarp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ncarp.release.xcconfig"; path = "Target Support Files/Pods-Ncarp/Pods-Ncarp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-Ncarp-NcarpTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ncarp-NcarpTests.debug.xcconfig"; path = "Target Support Files/Pods-Ncarp-NcarpTests/Pods-Ncarp-NcarpTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Ncarp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Ncarp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		66BAF2F12BD779E200834551 /* OpenSans_SemiCondensed-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-Medium.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-Medium.ttf"; sourceTree = "<group>"; };
+		66BAF2F22BD779E200834551 /* OpenSans_SemiCondensed-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-Regular.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-Regular.ttf"; sourceTree = "<group>"; };
+		66BAF2F32BD779E200834551 /* NunitoSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-BoldItalic.ttf"; path = "Ncarp/Fonts/NunitoSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF2F42BD779E200834551 /* OpenSans_Condensed-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-Italic.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-Italic.ttf"; sourceTree = "<group>"; };
+		66BAF2F52BD779E200834551 /* OpenSans_SemiCondensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-ExtraBoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF2F62BD779E200834551 /* Mukta-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-SemiBold.ttf"; path = "Ncarp/Fonts/Mukta-SemiBold.ttf"; sourceTree = "<group>"; };
+		66BAF2F72BD779E200834551 /* OpenSans_Condensed-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-Light.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-Light.ttf"; sourceTree = "<group>"; };
+		66BAF2F82BD779E200834551 /* Mukta-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-ExtraBold.ttf"; path = "Ncarp/Fonts/Mukta-ExtraBold.ttf"; sourceTree = "<group>"; };
+		66BAF2F92BD779E200834551 /* Mukta-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-Medium.ttf"; path = "Ncarp/Fonts/Mukta-Medium.ttf"; sourceTree = "<group>"; };
+		66BAF2FA2BD779E300834551 /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-ExtraBold.ttf"; path = "Ncarp/Fonts/OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		66BAF2FB2BD779E300834551 /* OpenSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Medium.ttf"; path = "Ncarp/Fonts/OpenSans-Medium.ttf"; sourceTree = "<group>"; };
+		66BAF2FC2BD779E300834551 /* NunitoSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-Medium.ttf"; path = "Ncarp/Fonts/NunitoSans-Medium.ttf"; sourceTree = "<group>"; };
+		66BAF2FD2BD779E300834551 /* NunitoSans-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-ExtraLight.ttf"; path = "Ncarp/Fonts/NunitoSans-ExtraLight.ttf"; sourceTree = "<group>"; };
+		66BAF2FE2BD779E300834551 /* NunitoSans-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-MediumItalic.ttf"; path = "Ncarp/Fonts/NunitoSans-MediumItalic.ttf"; sourceTree = "<group>"; };
+		66BAF2FF2BD779E300834551 /* OpenSans_SemiCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-BoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3002BD779E300834551 /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Bold.ttf"; path = "Ncarp/Fonts/OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		66BAF3012BD779E300834551 /* Mukta-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-ExtraLight.ttf"; path = "Ncarp/Fonts/Mukta-ExtraLight.ttf"; sourceTree = "<group>"; };
+		66BAF3022BD779E300834551 /* NunitoSans-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-Black.ttf"; path = "Ncarp/Fonts/NunitoSans-Black.ttf"; sourceTree = "<group>"; };
+		66BAF3032BD779E300834551 /* OpenSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-ExtraBoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3042BD779E300834551 /* NunitoSans-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-BlackItalic.ttf"; path = "Ncarp/Fonts/NunitoSans-BlackItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3052BD779E300834551 /* NunitoSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-LightItalic.ttf"; path = "Ncarp/Fonts/NunitoSans-LightItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3062BD779E300834551 /* OpenSans_SemiCondensed-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-LightItalic.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3072BD779E300834551 /* NunitoSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-Bold.ttf"; path = "Ncarp/Fonts/NunitoSans-Bold.ttf"; sourceTree = "<group>"; };
+		66BAF3082BD779E300834551 /* OpenSans_Condensed-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-ExtraBoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3092BD779E300834551 /* NunitoSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-Regular.ttf"; path = "Ncarp/Fonts/NunitoSans-Regular.ttf"; sourceTree = "<group>"; };
+		66BAF30A2BD779E300834551 /* OpenSans_Condensed-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-LightItalic.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-LightItalic.ttf"; sourceTree = "<group>"; };
+		66BAF30B2BD779E300834551 /* OpenSans_Condensed-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-MediumItalic.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-MediumItalic.ttf"; sourceTree = "<group>"; };
+		66BAF30C2BD779E300834551 /* Mukta-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-Bold.ttf"; path = "Ncarp/Fonts/Mukta-Bold.ttf"; sourceTree = "<group>"; };
+		66BAF30D2BD779E300834551 /* OpenSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-SemiBoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF30E2BD779E300834551 /* OpenSans_SemiCondensed-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-ExtraBold.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-ExtraBold.ttf"; sourceTree = "<group>"; };
+		66BAF30F2BD779E300834551 /* OpenSans_Condensed-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-BoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-BoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3102BD779E300834551 /* OpenSans_Condensed-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-Regular.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-Regular.ttf"; sourceTree = "<group>"; };
+		66BAF3112BD779E300834551 /* OpenSans_Condensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-SemiBoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3122BD779E300834551 /* OpenSans_SemiCondensed-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-SemiBold.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-SemiBold.ttf"; sourceTree = "<group>"; };
+		66BAF3132BD779E300834551 /* NunitoSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-Italic.ttf"; path = "Ncarp/Fonts/NunitoSans-Italic.ttf"; sourceTree = "<group>"; };
+		66BAF3142BD779E300834551 /* NunitoSans-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-ExtraBoldItalic.ttf"; path = "Ncarp/Fonts/NunitoSans-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3152BD779E300834551 /* Mukta-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-Light.ttf"; path = "Ncarp/Fonts/Mukta-Light.ttf"; sourceTree = "<group>"; };
+		66BAF3162BD779E300834551 /* OpenSans-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-LightItalic.ttf"; path = "Ncarp/Fonts/OpenSans-LightItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3172BD779E300834551 /* NunitoSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-Light.ttf"; path = "Ncarp/Fonts/NunitoSans-Light.ttf"; sourceTree = "<group>"; };
+		66BAF3182BD779E300834551 /* OpenSans_SemiCondensed-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-MediumItalic.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-MediumItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3192BD779E300834551 /* Mukta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Mukta-Regular.ttf"; path = "Ncarp/Fonts/Mukta-Regular.ttf"; sourceTree = "<group>"; };
+		66BAF31A2BD779E300834551 /* OpenSans_Condensed-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-SemiBold.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-SemiBold.ttf"; sourceTree = "<group>"; };
+		66BAF31B2BD779E300834551 /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Light.ttf"; path = "Ncarp/Fonts/OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		66BAF31C2BD779E300834551 /* OpenSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-BoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF31D2BD779E300834551 /* OpenSans_SemiCondensed-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-Italic.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-Italic.ttf"; sourceTree = "<group>"; };
+		66BAF31E2BD779E300834551 /* NunitoSans-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-ExtraLightItalic.ttf"; path = "Ncarp/Fonts/NunitoSans-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		66BAF31F2BD779E300834551 /* OpenSans_Condensed-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-ExtraBold.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-ExtraBold.ttf"; sourceTree = "<group>"; };
+		66BAF3202BD779E300834551 /* OpenSans_SemiCondensed-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-Light.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-Light.ttf"; sourceTree = "<group>"; };
+		66BAF3212BD779E300834551 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Regular.ttf"; path = "Ncarp/Fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		66BAF3222BD779E300834551 /* NunitoSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NunitoSans-ExtraBold.ttf"; path = "Ncarp/Fonts/NunitoSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		66BAF3232BD779E300834551 /* OpenSans_Condensed-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-Medium.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-Medium.ttf"; sourceTree = "<group>"; };
+		66BAF3242BD779E300834551 /* OpenSans_Condensed-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_Condensed-Bold.ttf"; path = "Ncarp/Fonts/OpenSans_Condensed-Bold.ttf"; sourceTree = "<group>"; };
+		66BAF3252BD779E300834551 /* OpenSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Italic.ttf"; path = "Ncarp/Fonts/OpenSans-Italic.ttf"; sourceTree = "<group>"; };
+		66BAF3262BD779E300834551 /* OpenSans_SemiCondensed-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-SemiBoldItalic.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3272BD779E300834551 /* OpenSans_SemiCondensed-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans_SemiCondensed-Bold.ttf"; path = "Ncarp/Fonts/OpenSans_SemiCondensed-Bold.ttf"; sourceTree = "<group>"; };
+		66BAF3282BD779E300834551 /* OpenSans-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-MediumItalic.ttf"; path = "Ncarp/Fonts/OpenSans-MediumItalic.ttf"; sourceTree = "<group>"; };
+		66BAF3292BD779E300834551 /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-SemiBold.ttf"; path = "Ncarp/Fonts/OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Ncarp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Ncarp-NcarpTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ncarp-NcarpTests.release.xcconfig"; path = "Target Support Files/Pods-Ncarp-NcarpTests/Pods-Ncarp-NcarpTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -116,6 +230,63 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				66BAF30C2BD779E300834551 /* Mukta-Bold.ttf */,
+				66BAF2F82BD779E200834551 /* Mukta-ExtraBold.ttf */,
+				66BAF3012BD779E300834551 /* Mukta-ExtraLight.ttf */,
+				66BAF3152BD779E300834551 /* Mukta-Light.ttf */,
+				66BAF2F92BD779E200834551 /* Mukta-Medium.ttf */,
+				66BAF3192BD779E300834551 /* Mukta-Regular.ttf */,
+				66BAF2F62BD779E200834551 /* Mukta-SemiBold.ttf */,
+				66BAF3022BD779E300834551 /* NunitoSans-Black.ttf */,
+				66BAF3042BD779E300834551 /* NunitoSans-BlackItalic.ttf */,
+				66BAF3072BD779E300834551 /* NunitoSans-Bold.ttf */,
+				66BAF2F32BD779E200834551 /* NunitoSans-BoldItalic.ttf */,
+				66BAF3222BD779E300834551 /* NunitoSans-ExtraBold.ttf */,
+				66BAF3142BD779E300834551 /* NunitoSans-ExtraBoldItalic.ttf */,
+				66BAF2FD2BD779E300834551 /* NunitoSans-ExtraLight.ttf */,
+				66BAF31E2BD779E300834551 /* NunitoSans-ExtraLightItalic.ttf */,
+				66BAF3132BD779E300834551 /* NunitoSans-Italic.ttf */,
+				66BAF3172BD779E300834551 /* NunitoSans-Light.ttf */,
+				66BAF3052BD779E300834551 /* NunitoSans-LightItalic.ttf */,
+				66BAF2FC2BD779E300834551 /* NunitoSans-Medium.ttf */,
+				66BAF2FE2BD779E300834551 /* NunitoSans-MediumItalic.ttf */,
+				66BAF3092BD779E300834551 /* NunitoSans-Regular.ttf */,
+				66BAF3242BD779E300834551 /* OpenSans_Condensed-Bold.ttf */,
+				66BAF30F2BD779E300834551 /* OpenSans_Condensed-BoldItalic.ttf */,
+				66BAF31F2BD779E300834551 /* OpenSans_Condensed-ExtraBold.ttf */,
+				66BAF3082BD779E300834551 /* OpenSans_Condensed-ExtraBoldItalic.ttf */,
+				66BAF2F42BD779E200834551 /* OpenSans_Condensed-Italic.ttf */,
+				66BAF2F72BD779E200834551 /* OpenSans_Condensed-Light.ttf */,
+				66BAF30A2BD779E300834551 /* OpenSans_Condensed-LightItalic.ttf */,
+				66BAF3232BD779E300834551 /* OpenSans_Condensed-Medium.ttf */,
+				66BAF30B2BD779E300834551 /* OpenSans_Condensed-MediumItalic.ttf */,
+				66BAF3102BD779E300834551 /* OpenSans_Condensed-Regular.ttf */,
+				66BAF31A2BD779E300834551 /* OpenSans_Condensed-SemiBold.ttf */,
+				66BAF3112BD779E300834551 /* OpenSans_Condensed-SemiBoldItalic.ttf */,
+				66BAF3272BD779E300834551 /* OpenSans_SemiCondensed-Bold.ttf */,
+				66BAF2FF2BD779E300834551 /* OpenSans_SemiCondensed-BoldItalic.ttf */,
+				66BAF30E2BD779E300834551 /* OpenSans_SemiCondensed-ExtraBold.ttf */,
+				66BAF2F52BD779E200834551 /* OpenSans_SemiCondensed-ExtraBoldItalic.ttf */,
+				66BAF31D2BD779E300834551 /* OpenSans_SemiCondensed-Italic.ttf */,
+				66BAF3202BD779E300834551 /* OpenSans_SemiCondensed-Light.ttf */,
+				66BAF3062BD779E300834551 /* OpenSans_SemiCondensed-LightItalic.ttf */,
+				66BAF2F12BD779E200834551 /* OpenSans_SemiCondensed-Medium.ttf */,
+				66BAF3182BD779E300834551 /* OpenSans_SemiCondensed-MediumItalic.ttf */,
+				66BAF2F22BD779E200834551 /* OpenSans_SemiCondensed-Regular.ttf */,
+				66BAF3122BD779E300834551 /* OpenSans_SemiCondensed-SemiBold.ttf */,
+				66BAF3262BD779E300834551 /* OpenSans_SemiCondensed-SemiBoldItalic.ttf */,
+				66BAF3002BD779E300834551 /* OpenSans-Bold.ttf */,
+				66BAF31C2BD779E300834551 /* OpenSans-BoldItalic.ttf */,
+				66BAF2FA2BD779E300834551 /* OpenSans-ExtraBold.ttf */,
+				66BAF3032BD779E300834551 /* OpenSans-ExtraBoldItalic.ttf */,
+				66BAF3252BD779E300834551 /* OpenSans-Italic.ttf */,
+				66BAF31B2BD779E300834551 /* OpenSans-Light.ttf */,
+				66BAF3162BD779E300834551 /* OpenSans-LightItalic.ttf */,
+				66BAF2FB2BD779E300834551 /* OpenSans-Medium.ttf */,
+				66BAF3282BD779E300834551 /* OpenSans-MediumItalic.ttf */,
+				66BAF3212BD779E300834551 /* OpenSans-Regular.ttf */,
+				66BAF3292BD779E300834551 /* OpenSans-SemiBold.ttf */,
+				66BAF30D2BD779E300834551 /* OpenSans-SemiBoldItalic.ttf */,
 				13B07FAE1A68108700A75B9A /* Ncarp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* NcarpTests */,
@@ -159,7 +330,6 @@
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
 				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -181,8 +351,8 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
 				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				38C561F22957FF23C251E2BB /* [CP-User] [RNFB] Core Configuration */,
 			);
 			buildRules = (
 			);
@@ -241,6 +411,63 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66BAF32A2BD779E300834551 /* OpenSans_SemiCondensed-Medium.ttf in Resources */,
+				66BAF32B2BD779E300834551 /* OpenSans_SemiCondensed-Regular.ttf in Resources */,
+				66BAF32C2BD779E300834551 /* NunitoSans-BoldItalic.ttf in Resources */,
+				66BAF32D2BD779E300834551 /* OpenSans_Condensed-Italic.ttf in Resources */,
+				66BAF32E2BD779E300834551 /* OpenSans_SemiCondensed-ExtraBoldItalic.ttf in Resources */,
+				66BAF32F2BD779E300834551 /* Mukta-SemiBold.ttf in Resources */,
+				66BAF3302BD779E300834551 /* OpenSans_Condensed-Light.ttf in Resources */,
+				66BAF3312BD779E300834551 /* Mukta-ExtraBold.ttf in Resources */,
+				66BAF3322BD779E300834551 /* Mukta-Medium.ttf in Resources */,
+				66BAF3332BD779E300834551 /* OpenSans-ExtraBold.ttf in Resources */,
+				66BAF3342BD779E300834551 /* OpenSans-Medium.ttf in Resources */,
+				66BAF3352BD779E300834551 /* NunitoSans-Medium.ttf in Resources */,
+				66BAF3362BD779E300834551 /* NunitoSans-ExtraLight.ttf in Resources */,
+				66BAF3372BD779E300834551 /* NunitoSans-MediumItalic.ttf in Resources */,
+				66BAF3382BD779E300834551 /* OpenSans_SemiCondensed-BoldItalic.ttf in Resources */,
+				66BAF3392BD779E300834551 /* OpenSans-Bold.ttf in Resources */,
+				66BAF33A2BD779E300834551 /* Mukta-ExtraLight.ttf in Resources */,
+				66BAF33B2BD779E300834551 /* NunitoSans-Black.ttf in Resources */,
+				66BAF33C2BD779E300834551 /* OpenSans-ExtraBoldItalic.ttf in Resources */,
+				66BAF33D2BD779E300834551 /* NunitoSans-BlackItalic.ttf in Resources */,
+				66BAF33E2BD779E300834551 /* NunitoSans-LightItalic.ttf in Resources */,
+				66BAF33F2BD779E300834551 /* OpenSans_SemiCondensed-LightItalic.ttf in Resources */,
+				66BAF3402BD779E300834551 /* NunitoSans-Bold.ttf in Resources */,
+				66BAF3412BD779E300834551 /* OpenSans_Condensed-ExtraBoldItalic.ttf in Resources */,
+				66BAF3422BD779E300834551 /* NunitoSans-Regular.ttf in Resources */,
+				66BAF3432BD779E300834551 /* OpenSans_Condensed-LightItalic.ttf in Resources */,
+				66BAF3442BD779E300834551 /* OpenSans_Condensed-MediumItalic.ttf in Resources */,
+				66BAF3452BD779E300834551 /* Mukta-Bold.ttf in Resources */,
+				66BAF3462BD779E300834551 /* OpenSans-SemiBoldItalic.ttf in Resources */,
+				66BAF3472BD779E300834551 /* OpenSans_SemiCondensed-ExtraBold.ttf in Resources */,
+				66BAF3482BD779E300834551 /* OpenSans_Condensed-BoldItalic.ttf in Resources */,
+				66BAF3492BD779E300834551 /* OpenSans_Condensed-Regular.ttf in Resources */,
+				66BAF34A2BD779E300834551 /* OpenSans_Condensed-SemiBoldItalic.ttf in Resources */,
+				66BAF34B2BD779E300834551 /* OpenSans_SemiCondensed-SemiBold.ttf in Resources */,
+				66BAF34C2BD779E300834551 /* NunitoSans-Italic.ttf in Resources */,
+				66BAF34D2BD779E300834551 /* NunitoSans-ExtraBoldItalic.ttf in Resources */,
+				66BAF34E2BD779E300834551 /* Mukta-Light.ttf in Resources */,
+				66BAF34F2BD779E300834551 /* OpenSans-LightItalic.ttf in Resources */,
+				66BAF3502BD779E300834551 /* NunitoSans-Light.ttf in Resources */,
+				66BAF3512BD779E300834551 /* OpenSans_SemiCondensed-MediumItalic.ttf in Resources */,
+				66BAF3522BD779E300834551 /* Mukta-Regular.ttf in Resources */,
+				66BAF3532BD779E300834551 /* OpenSans_Condensed-SemiBold.ttf in Resources */,
+				66BAF3542BD779E300834551 /* OpenSans-Light.ttf in Resources */,
+				66BAF3552BD779E300834551 /* OpenSans-BoldItalic.ttf in Resources */,
+				66BAF3562BD779E300834551 /* OpenSans_SemiCondensed-Italic.ttf in Resources */,
+				66BAF3572BD779E300834551 /* NunitoSans-ExtraLightItalic.ttf in Resources */,
+				66BAF3582BD779E300834551 /* OpenSans_Condensed-ExtraBold.ttf in Resources */,
+				66BAF3592BD779E300834551 /* OpenSans_SemiCondensed-Light.ttf in Resources */,
+				66BAF35A2BD779E300834551 /* OpenSans-Regular.ttf in Resources */,
+				66BAF35B2BD779E300834551 /* NunitoSans-ExtraBold.ttf in Resources */,
+				66BAF35C2BD779E300834551 /* OpenSans_Condensed-Medium.ttf in Resources */,
+				66BAF35D2BD779E300834551 /* OpenSans_Condensed-Bold.ttf in Resources */,
+				66BAF35E2BD779E300834551 /* OpenSans-Italic.ttf in Resources */,
+				66BAF35F2BD779E300834551 /* OpenSans_SemiCondensed-SemiBoldItalic.ttf in Resources */,
+				66BAF3602BD779E300834551 /* OpenSans_SemiCondensed-Bold.ttf in Resources */,
+				66BAF3612BD779E300834551 /* OpenSans-MediumItalic.ttf in Resources */,
+				66BAF3622BD779E300834551 /* OpenSans-SemiBold.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
@@ -265,22 +492,18 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		38C561F22957FF23C251E2BB /* [CP-User] [RNFB] Core Configuration */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Ncarp/Pods-Ncarp-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			inputPaths = (
+				"$(BUILT_PRODUCTS_DIR)/$(INFOPLIST_PATH)",
 			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Ncarp/Pods-Ncarp-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
+			name = "[CP-User] [RNFB] Core Configuration";
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Ncarp/Pods-Ncarp-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
+			shellScript = "#!/usr/bin/env bash\n#\n# Copyright (c) 2016-present Invertase Limited & Contributors\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this library except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#   http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\n\n##########################################################################\n##########################################################################\n#\n#  NOTE THAT IF YOU CHANGE THIS FILE YOU MUST RUN pod install AFTERWARDS\n#\n#  This file is installed as an Xcode build script in the project file\n#  by cocoapods, and you will not see your changes until you pod install\n#\n##########################################################################\n##########################################################################\n\nset -e\n\n_MAX_LOOKUPS=2;\n_SEARCH_RESULT=''\n_RN_ROOT_EXISTS=''\n_CURRENT_LOOKUPS=1\n_JSON_ROOT=\"'react-native'\"\n_JSON_FILE_NAME='firebase.json'\n_JSON_OUTPUT_BASE64='e30=' # { }\n_CURRENT_SEARCH_DIR=${PROJECT_DIR}\n_PLIST_BUDDY=/usr/libexec/PlistBuddy\n_TARGET_PLIST=\"${BUILT_PRODUCTS_DIR}/${INFOPLIST_PATH}\"\n_DSYM_PLIST=\"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Info.plist\"\n\n# plist arrays\n_PLIST_ENTRY_KEYS=()\n_PLIST_ENTRY_TYPES=()\n_PLIST_ENTRY_VALUES=()\n\nfunction setPlistValue {\n  echo \"info:      setting plist entry '$1' of type '$2' in file '$4'\"\n  ${_PLIST_BUDDY} -c \"Add :$1 $2 '$3'\" $4 || echo \"info:      '$1' already exists\"\n}\n\nfunction getFirebaseJsonKeyValue () {\n  if [[ ${_RN_ROOT_EXISTS} ]]; then\n    ruby -Ku -e \"require 'rubygems';require 'json'; output=JSON.parse('$1'); puts output[$_JSON_ROOT]['$2']\"\n  else\n    echo \"\"\n  fi;\n}\n\nfunction jsonBoolToYesNo () {\n  if [[ $1 == \"false\" ]]; then\n    echo \"NO\"\n  elif [[ $1 == \"true\" ]]; then\n    echo \"YES\"\n  else echo \"NO\"\n  fi\n}\n\necho \"info: -> RNFB build script started\"\necho \"info: 1) Locating ${_JSON_FILE_NAME} file:\"\n\nif [[ -z ${_CURRENT_SEARCH_DIR} ]]; then\n  _CURRENT_SEARCH_DIR=$(pwd)\nfi;\n\nwhile true; do\n  _CURRENT_SEARCH_DIR=$(dirname \"$_CURRENT_SEARCH_DIR\")\n  if [[ \"$_CURRENT_SEARCH_DIR\" == \"/\" ]] || [[ ${_CURRENT_LOOKUPS} -gt ${_MAX_LOOKUPS} ]]; then break; fi;\n  echo \"info:      ($_CURRENT_LOOKUPS of $_MAX_LOOKUPS) Searching in '$_CURRENT_SEARCH_DIR' for a ${_JSON_FILE_NAME} file.\"\n  _SEARCH_RESULT=$(find \"$_CURRENT_SEARCH_DIR\" -maxdepth 2 -name ${_JSON_FILE_NAME} -print | /usr/bin/head -n 1)\n  if [[ ${_SEARCH_RESULT} ]]; then\n    echo \"info:      ${_JSON_FILE_NAME} found at $_SEARCH_RESULT\"\n    break;\n  fi;\n  _CURRENT_LOOKUPS=$((_CURRENT_LOOKUPS+1))\ndone\n\nif [[ ${_SEARCH_RESULT} ]]; then\n  _JSON_OUTPUT_RAW=$(cat \"${_SEARCH_RESULT}\")\n  _RN_ROOT_EXISTS=$(ruby -Ku -e \"require 'rubygems';require 'json'; output=JSON.parse('$_JSON_OUTPUT_RAW'); puts output[$_JSON_ROOT]\" || echo '')\n\n  if [[ ${_RN_ROOT_EXISTS} ]]; then\n    if ! python3 --version >/dev/null 2>&1; then echo \"python3 not found, firebase.json file processing error.\" && exit 1; fi\n    _JSON_OUTPUT_BASE64=$(python3 -c 'import json,sys,base64;print(base64.b64encode(bytes(json.dumps(json.loads(open('\"'${_SEARCH_RESULT}'\"', '\"'rb'\"').read())['${_JSON_ROOT}']), '\"'utf-8'\"')).decode())' || echo \"e30=\")\n  fi\n\n  _PLIST_ENTRY_KEYS+=(\"firebase_json_raw\")\n  _PLIST_ENTRY_TYPES+=(\"string\")\n  _PLIST_ENTRY_VALUES+=(\"$_JSON_OUTPUT_BASE64\")\n\n  # config.app_data_collection_default_enabled\n  _APP_DATA_COLLECTION_ENABLED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"app_data_collection_default_enabled\")\n  if [[ $_APP_DATA_COLLECTION_ENABLED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseDataCollectionDefaultEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_APP_DATA_COLLECTION_ENABLED\")\")\n  fi\n\n  # config.analytics_auto_collection_enabled\n  _ANALYTICS_AUTO_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_auto_collection_enabled\")\n  if [[ $_ANALYTICS_AUTO_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FIREBASE_ANALYTICS_COLLECTION_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AUTO_COLLECTION\")\")\n  fi\n\n  # config.analytics_collection_deactivated\n  _ANALYTICS_DEACTIVATED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_collection_deactivated\")\n  if [[ $_ANALYTICS_DEACTIVATED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_DEACTIVATED\")\")\n  fi\n\n  # config.analytics_idfv_collection_enabled\n  _ANALYTICS_IDFV_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_idfv_collection_enabled\")\n  if [[ $_ANALYTICS_IDFV_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_IDFV_COLLECTION_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_IDFV_COLLECTION\")\")\n  fi\n\n  # config.analytics_default_allow_analytics_storage\n  _ANALYTICS_STORAGE=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_default_allow_analytics_storage\")\n  if [[ $_ANALYTICS_STORAGE ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_DEFAULT_ALLOW_ANALYTICS_STORAGE\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_STORAGE\")\")\n  fi\n\n  # config.analytics_default_allow_ad_storage\n  _ANALYTICS_AD_STORAGE=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_default_allow_ad_storage\")\n  if [[ $_ANALYTICS_AD_STORAGE ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_DEFAULT_ALLOW_AD_STORAGE\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AD_STORAGE\")\")\n  fi\n\n  # config.analytics_default_allow_ad_user_data\n  _ANALYTICS_AD_USER_DATA=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_default_allow_ad_user_data\")\n  if [[ $_ANALYTICS_AD_USER_DATA ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_DEFAULT_ALLOW_AD_USER_DATA\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AD_USER_DATA\")\")\n  fi\n\n  # config.analytics_default_allow_ad_personalization_signals\n  _ANALYTICS_PERSONALIZATION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"analytics_default_allow_ad_personalization_signals\")\n  if [[ $_ANALYTICS_PERSONALIZATION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_DEFAULT_ALLOW_AD_PERSONALIZATION_SIGNALS\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_PERSONALIZATION\")\")\n  fi\n\n  # config.analytics_registration_with_ad_network_enabled\n  _ANALYTICS_REGISTRATION_WITH_AD_NETWORK=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"google_analytics_registration_with_ad_network_enabled\")\n  if [[ $_ANALYTICS_REGISTRATION_WITH_AD_NETWORK ]]; then\n    _PLIST_ENTRY_KEYS+=(\"GOOGLE_ANALYTICS_REGISTRATION_WITH_AD_NETWORK_ENABLED\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_REGISTRATION_WITH_AD_NETWORK\")\")\n  fi\n\n  # config.google_analytics_automatic_screen_reporting_enabled\n  _ANALYTICS_AUTO_SCREEN_REPORTING=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"google_analytics_automatic_screen_reporting_enabled\")\n  if [[ $_ANALYTICS_AUTO_SCREEN_REPORTING ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseAutomaticScreenReportingEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_ANALYTICS_AUTO_SCREEN_REPORTING\")\")\n  fi\n\n  # config.perf_auto_collection_enabled\n  _PERF_AUTO_COLLECTION=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"perf_auto_collection_enabled\")\n  if [[ $_PERF_AUTO_COLLECTION ]]; then\n    _PLIST_ENTRY_KEYS+=(\"firebase_performance_collection_enabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_PERF_AUTO_COLLECTION\")\")\n  fi\n\n  # config.perf_collection_deactivated\n  _PERF_DEACTIVATED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"perf_collection_deactivated\")\n  if [[ $_PERF_DEACTIVATED ]]; then\n    _PLIST_ENTRY_KEYS+=(\"firebase_performance_collection_deactivated\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_PERF_DEACTIVATED\")\")\n  fi\n\n  # config.messaging_auto_init_enabled\n  _MESSAGING_AUTO_INIT=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"messaging_auto_init_enabled\")\n  if [[ $_MESSAGING_AUTO_INIT ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseMessagingAutoInitEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_MESSAGING_AUTO_INIT\")\")\n  fi\n\n  # config.in_app_messaging_auto_colllection_enabled\n  _FIAM_AUTO_INIT=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"in_app_messaging_auto_collection_enabled\")\n  if [[ $_FIAM_AUTO_INIT ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseInAppMessagingAutomaticDataCollectionEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_FIAM_AUTO_INIT\")\")\n  fi\n\n  # config.app_check_token_auto_refresh\n  _APP_CHECK_TOKEN_AUTO_REFRESH=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"app_check_token_auto_refresh\")\n  if [[ $_APP_CHECK_TOKEN_AUTO_REFRESH ]]; then\n    _PLIST_ENTRY_KEYS+=(\"FirebaseAppCheckTokenAutoRefreshEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"$(jsonBoolToYesNo \"$_APP_CHECK_TOKEN_AUTO_REFRESH\")\")\n  fi\n\n  # config.crashlytics_disable_auto_disabler - undocumented for now - mainly for debugging, document if becomes useful\n  _CRASHLYTICS_AUTO_DISABLE_ENABLED=$(getFirebaseJsonKeyValue \"$_JSON_OUTPUT_RAW\" \"crashlytics_disable_auto_disabler\")\n  if [[ $_CRASHLYTICS_AUTO_DISABLE_ENABLED == \"true\" ]]; then\n    echo \"Disabled Crashlytics auto disabler.\" # do nothing\n  else\n    _PLIST_ENTRY_KEYS+=(\"FirebaseCrashlyticsCollectionEnabled\")\n    _PLIST_ENTRY_TYPES+=(\"bool\")\n    _PLIST_ENTRY_VALUES+=(\"NO\")\n  fi\nelse\n  _PLIST_ENTRY_KEYS+=(\"firebase_json_raw\")\n  _PLIST_ENTRY_TYPES+=(\"string\")\n  _PLIST_ENTRY_VALUES+=(\"$_JSON_OUTPUT_BASE64\")\n  echo \"warning:   A firebase.json file was not found, whilst this file is optional it is recommended to include it to configure firebase services in React Native Firebase.\"\nfi;\n\necho \"info: 2) Injecting Info.plist entries: \"\n\n# Log out the keys we're adding\nfor i in \"${!_PLIST_ENTRY_KEYS[@]}\"; do\n  echo \"    ->  $i) ${_PLIST_ENTRY_KEYS[$i]}\" \"${_PLIST_ENTRY_TYPES[$i]}\" \"${_PLIST_ENTRY_VALUES[$i]}\"\ndone\n\nfor plist in \"${_TARGET_PLIST}\" \"${_DSYM_PLIST}\" ; do\n  if [[ -f \"${plist}\" ]]; then\n\n    # paths with spaces break the call to setPlistValue. temporarily modify\n    # the shell internal field separator variable (IFS), which normally\n    # includes spaces, to consist only of line breaks\n    oldifs=$IFS\n    IFS=\"\n\"\n\n    for i in \"${!_PLIST_ENTRY_KEYS[@]}\"; do\n      setPlistValue \"${_PLIST_ENTRY_KEYS[$i]}\" \"${_PLIST_ENTRY_TYPES[$i]}\" \"${_PLIST_ENTRY_VALUES[$i]}\" \"${plist}\"\n    done\n\n    # restore the original internal field separator value\n    IFS=$oldifs\n  else\n    echo \"warning:   A Info.plist build output file was not found (${plist})\"\n  fi\ndone\n\necho \"info: <- RNFB build script finished\"\n";
 		};
 		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -324,23 +547,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Ncarp-NcarpTests/Pods-Ncarp-NcarpTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Ncarp-NcarpTests/Pods-Ncarp-NcarpTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Ncarp-NcarpTests/Pods-Ncarp-NcarpTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
@@ -468,6 +674,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Ncarp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -494,6 +701,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = Ncarp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -580,13 +788,10 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				USE_HERMES = true;
+				USE_HERMES = false;
 			};
 			name = Debug;
 		};
@@ -651,13 +856,10 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				USE_HERMES = true;
+				USE_HERMES = false;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
